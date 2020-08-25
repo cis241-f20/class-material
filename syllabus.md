@@ -2,7 +2,9 @@
 
 ## Instructor Information
 Instructor: Erin Carrier
+
 Office Hours: TBA
+
 Contact:
 
 * [Piazza](https://piazza.com/class/kdru22j5k4n3si) **preferred**
@@ -16,11 +18,12 @@ libraries, structures, pointers, dynamic memory management, and
 system calls.
 
 Prerequisite: CIS 163 or CIS 260
+
 Credits: 3
 
 ## Piazza
 We will be using Piazza for **all class related communication**.
-Please read the [Piazza FAQ] for more details.  
+Please read the [Piazza FAQ](piazza-faq.md) for more details.  
 In particular, note that important announcements will be posted
 to Piazza and you are responsible for monitoring it and
 that **all questions and concerns**
@@ -67,24 +70,17 @@ After successful completion of the course a student should be able to:
 | Activity   | Estimated # | Percentage | Other notes |
 | ---------- | ----------- | ---------- | ----------- |
 | Mini-labs            | ~15 | 20% | the lowest minilab score will be dropped |
-| Programming Projects | 4-5  | 35% | |
+| Programming Projects | ~4  | 35% | |
 | Midterms             | ~2  | 25% | |
 | Final Exam           | 1   | 20% | |
 
 ## Grading Scale
-| % Range   | Grade |
-| --------- | ----- |
-| [93, 100] | A     |
-| [90, 93)  | A-    |
-| [87, 90)  | B+    |
-| [83, 87)  | B     |
-| [80, 83)  | B-    |
-| [77, 80)  | C+    |
-| [73, 77)  | C     |
-| [70, 73)  | C-    |
-| [67, 70)  | D+    |
-| [60, 67)  | D     |
-| [0, 60)   | F     |
+| % Range   | Grade | % Range   | Grade | % Range   | Grade |
+| --------- | ----- | --------- | ----- | --------- | ----- |
+| [93, 100] | A     | [90, 93)  | A-    |  [87, 90) | B+    |
+| [83, 87)  | B     | [80, 83)  | B-    | [77, 80)  | C+    |
+| [73, 77)  | C     | [70, 73)  | C-    | [67, 70)  | D+    |
+| [60, 67)  | D     | [0, 60)   | F     |
 
 ## Course Policies
 This course is subject to the GVSU policies listed at

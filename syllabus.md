@@ -77,10 +77,10 @@ After successful completion of the course a student should be able to:
 ## Grading Scale
 | % Range   | Grade | % Range   | Grade | % Range   | Grade |
 | --------- | ----- | --------- | ----- | --------- | ----- |
-| [93, 100] | A     | [90, 93)  | A-    |  [87, 90) | B+    |
-| [83, 87)  | B     | [80, 83)  | B-    | [77, 80)  | C+    |
-| [73, 77)  | C     | [70, 73)  | C-    | [67, 70)  | D+    |
-| [60, 67)  | D     | [0, 60)   | F     |
+| [93, 100] | A     | [90, 93)  | A-    |           |       |
+| [87, 90)  | B+    | [83, 87)  | B     | [80, 83)  | B-    |
+| [77, 80)  | C+    | [73, 77)  | C     | [70, 73)  | C-    |
+| [67, 70)  | D+    | [60, 67)  | D     | [0, 60)   | F     |
 
 ## Course Policies
 This course is subject to the GVSU policies listed at

@@ -13,7 +13,7 @@ This course should help acquaint you with:
 
 ### Helpful Links
 
-* [Piazza](https://piazza.com/class/kdru22j5k4n3si) [FAQ about Piazza](piazza-faq.md)
+* [Piazza](https://piazza.com/class/kdru22j5k4n3si) -- also [FAQ about Piazza](piazza-faq.md)
 * [PrairieLearn](https://prairielearn.engr.illinois.edu/)
 * [Syllabus](syllabus.md)
 

@@ -36,7 +36,7 @@ redirected to be posted to Piazza.
    (like posting a link to a resource you found helpful).
    Fill in the question title ("Summary") and full question text, and post!
 * *Answering questions:* Select a question and edit or add the "Students" answer.
-* *Followups:*" If a question is closely related, or you or another student want further
+* *Followups:* If a question is closely related, or you or another student want further
    clarification, post a followup below the question which can be answered with replies.
 * *Email frequency:* In your settings, you can change how frequently you receive emails
    with the exception of some important instructor announcements which will spam out emails
@@ -52,9 +52,13 @@ has the same question, please post publicly unless:
    code or solutions in order to ask your question (basically
    don't give away the answer in a public post). 
 
+If you are more comfortable,
+you always have the opportunity to post your question anonymously to
+your classmates.  
+
 ## What makes a good question?
 
-A good question is oen that clearly describes the issue
+A good question is one that clearly describes the issue
 (what the problem is or what you don't understand), what you have tried so far,
 and what you are currently thinking.  Without knowing what a student is
 thinking, it's hard to identify what they are misunderstanding.

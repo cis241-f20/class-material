@@ -40,8 +40,8 @@ added throughout the semester.  Material will be added on a weekly basis.
 
 | Week | Date          | Topics | Activities | TODOs |
 | ---- | ------------- | ------ | ---------- | --------- |
-|  01  | 08/31 - 09/04 | intro <br> ssh <br> navigating linux <br> file transfer <br> compressing/archiving | TBA | Create a [Piazza account](https://piazza.com/class/kdru22j5k4n3si) <br> Create a [github](https://github.com/) account (if you do not already have one <br> [Course Survey due Friday 09/04](https://forms.gle/zoiNaFCJq5PJeFea7) |
-|  02  | 09/07 - 09/11 | LABOR DAY (09/07) sshkeys, linux utilities | TBA | - |
+|  01 <br> 08/31 - 09/04 |  | intro <br> ssh <br> navigating linux <br> file transfer <br> compressing/archiving | TBA | Create a [Piazza account](https://piazza.com/class/kdru22j5k4n3si) <br> Create a [github](https://github.com/) account (if you do not already have one <br> [Course Survey due Friday 09/04](https://forms.gle/zoiNaFCJq5PJeFea7) |
+|  02  | 09/07 - 09/11 | LABOR DAY (09/07) <br> sshkeys, linux utilities | TBA | - |
 |  03  | 09/14 - 09/18 | linux utilities, git| TBA | TBA |
 |  04  | 09/21 - 09/25 | git | TBA | TBA |
 |  05  | 09/28 - 10/02 | permissions, processes, aliases, vim | TBA | TBA |

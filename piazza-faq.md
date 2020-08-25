@@ -1,10 +1,10 @@
 # Piazza FAQ
 
-**Q. What is Piazza?**
+##Q. What is Piazza?
 
 A.  An online Q&A forum designed specifically for teaching
 
-**Q. Why are we using it?**
+##Q. Why are we using it?
 
 A. 
 1. get faster responses - get responses from both the instructor and students

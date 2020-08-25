@@ -6,7 +6,7 @@ Office Hours: TBA
 Contact:
 
 * [Piazza](https://piazza.com/class/kdru22j5k4n3si) **preferred**
-* [email](erin.carrier@gvsu.edu) ^^^in almost all cases use Piazza
+* [email](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
 
 ## Course Description
 Introduction to software infrastructure underlying development of

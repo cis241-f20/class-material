@@ -6,19 +6,20 @@ A.  An online Q&A forum designed specifically for teaching
 
 **Q. Why are we using it?**
 
-A. 1) get faster responses - get responses from both the instructor and students
-   2) lets students benefit from others' questions - classmates
-      may ask something you never even thought to ask
-   3) removes barriers for students who may be shy or hesitant
-      to actively participate - particularly important given the
-      nature of participation in online classes
-   4) provides a single, organized place for all course
-      communication -- they are searchable, filterable, starrable, and persist
-      throughout the semester and after it is over
-   5) ensures all questions get answered satisfactorily -- unanswered
-      and unresolved questions are clearly marked which prevents issues with emails
-      getting lost or forgotten
-   6) allows easy code and math formatting in questions and answers
+A. 
+1. get faster responses - get responses from both the instructor and students
+2. lets students benefit from others' questions - classmates
+   may ask something you never even thought to ask
+3. removes barriers for students who may be shy or hesitant
+   to actively participate - particularly important given the
+   nature of participation in online classes
+4. provides a single, organized place for all course
+   communication -- they are searchable, filterable, starrable, and persist
+   throughout the semester and after it is over
+5. ensures all questions get answered satisfactorily -- unanswered
+   and unresolved questions are clearly marked which prevents issues with emails
+   getting lost or forgotten
+6. allows easy code and math formatting in questions and answers
 
 **Q. Do I have to use it?**
 
@@ -31,14 +32,15 @@ A. Yes, Piazza is required.  Important announcements will be posted
 
 **Q. How does it work?**
 
-A. *Creating a post:*  Simply press "New Post" in the upper left,
+A.
+* *Creating a post:*  Simply press "New Post" in the upper left,
    choose "question" if you want a response or "note" if no response needed
    (like posting a link to a resource you found helpful).
    Fill in the question title ("Summary") and full question text, and post!
-   *Answering questions:* Select a question and edit or add the "Students" answer.
+* *Answering questions:* Select a question and edit or add the "Students" answer.
    *Followups:*" If a question is closely related, or you or another student want further
    clarification, post a followup below the question which can be answered with replies.
-   *Email frequency:* In your settings, you can change how frequently you receive emails
+* *Email frequency:* In your settings, you can change how frequently you receive emails
    with the exception of some important instructor announcements which will spam out emails
    regardless of settings.
 

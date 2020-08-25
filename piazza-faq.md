@@ -36,7 +36,7 @@ redirected to be posted to Piazza.
    (like posting a link to a resource you found helpful).
    Fill in the question title ("Summary") and full question text, and post!
 * *Answering questions:* Select a question and edit or add the "Students" answer.
-   *Followups:*" If a question is closely related, or you or another student want further
+* *Followups:*" If a question is closely related, or you or another student want further
    clarification, post a followup below the question which can be answered with replies.
 * *Email frequency:* In your settings, you can change how frequently you receive emails
    with the exception of some important instructor announcements which will spam out emails
@@ -45,9 +45,12 @@ redirected to be posted to Piazza.
 ## Should I post my question publicly?
 
 Yes -- in almost all cases.  Even if you don't think another student
-has the same question, please post publicly unless 1) it is about you specifically
-(illness, grades, etc) 2) it is **absolutely necessary** to post large chunks of
-code or solutions in order to ask your question (basically don't give away the answer).
+has the same question, please post publicly unless:
+
+1. it is about you specifically (illness, grades, etc)
+2. it is **absolutely necessary** to post large chunks of
+   code or solutions in order to ask your question (basically
+   don't give away the answer in a public post). 
 
 ## What makes a good question?
 

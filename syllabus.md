@@ -144,7 +144,7 @@ additional partial credit will be awarded.  For projects, there
 may be a manually graded portion as well -- these points will be
 awarded manually.
 
-The goal of using PL is to as a whole improve grades by
+The goal of using PL is to, as a whole, improve grades by
 allowing you to assess your solution and continue to refine it.
 For coding problems, there are often both visible test cases and hidden
 test cases.  For many problems, the hidden test cases are edge cases

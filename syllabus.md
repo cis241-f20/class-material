@@ -200,7 +200,7 @@ For this course:
   open-note, open-internet.  You are free to consult your project solutions,
   examples used in class, and lecture videos while taking your exams.
   **You cannot, however, discuss or share any portion of the exam with another
-  individual (whether or not they are taking this class**.  Doing so will
+  individual (whether or not they are taking this class)**.  Doing so will
   be considered an academic integrity violation and may result in disciplinary
   action up to failure in the course.
 

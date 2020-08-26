@@ -24,7 +24,7 @@ to just sign-on to the office hour zoom calls and use the time
 to work on their projects and listen to questions others might have.
 
 ### COVID
-Unfortunately, this will not be a usual semester.  This course
+Unfortunately, this will not be a typical semester.  This course
 will be entirely online, but there will still likely be
 surprises and we will need to be flexible to accommodate changes.
 
@@ -33,10 +33,11 @@ My goal is to make this semester as effective and as smooth
 as possible.  Please reach out to me early and keep me informed
 of any issues that arise.
 
-
 ### Course Schedule
 This table will have all of the lecture video links, due dates, etc.
 added throughout the semester.  Material will be added on a weekly basis.
+Lecture video links will be posted under the topic column and released
+at the start of each week.
 
 | Week | Date          | Topics | Activities | TODOs |
 | ---- | ------------- | ------ | ---------- | --------- |

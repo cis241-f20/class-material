@@ -14,7 +14,10 @@ This course should help acquaint you with:
 ### Helpful Links
 
 * [Piazza](https://piazza.com/class/kdru22j5k4n3si) -- also [FAQ about Piazza](piazza-faq.md)
-* [PrairieLearn](https://prairielearn.engr.illinois.edu/)
+* [PrairieLearn](https://prairielearn.engr.illinois.edu/) - log-in
+  using "Google" and use your GVSU gmail account
+* [ClassTranscribe](https://classtranscribe.com/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6) -
+  select "Google" sign-in and use your GVSU gmail account
 * [Syllabus](syllabus.md)
 
 ### Need Help?

@@ -162,8 +162,8 @@ with the autograder, please post a private note on Piazza ASAP.
 ### Minilabs
 The Friday synchronous class sessions will be set aside to
 complete minilabs and ask questions regarding the asychronous material
-for the week.  Attendance is expected, and in many cases the
-ugrade may be based on attendance, but minilabs later in the semester
+for the week.  Attendance is expected, and, in many cases, the
+grade may be based on attendance, but minilabs later in the semester
 that focus more on
 C may have autograders to help you make sure your code is correct.
  

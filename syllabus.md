@@ -71,8 +71,7 @@ After successful completion of the course a student should be able to:
 | ---------- | ----------- | ---------- | ----------- |
 | Mini-labs            | ~15 | 20% | the lowest minilab score will be dropped |
 | Programming Projects | ~4  | 35% | |
-| Midterms             | ~2  | 25% | |
-| Final Exam           | 1   | 20% | |
+| Exams                | 2 (1 midterm, 1 final)  | 45% | |
 
 ## Grading Scale
 | % Range   | Grade | % Range   | Grade | % Range   | Grade |

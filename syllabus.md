@@ -39,7 +39,7 @@ GVSU’s library.  You may find a combination of them useful:
 
 * [Linux Pocket Guide, 3rd edition by Barrett (2016)](https://www.oreilly.com/library/view/linux-pocket-guide/9781491927557/)
 * [The Linux Command Line, 2nd edition by Shotts (2019)](https://www.oreilly.com/library/view/the-linux-command/9781492071235/)
-* [Linux in a Nutshell, 6th edition by Love, Figgins, Siever and Robbins (2009)](https://www.oreilly.com/library/view/the-linux-command/9781492071235/)
+* [Linux in a Nutshell, 6th edition by Love, Figgins, Siever and Robbins (2009)](https://www.oreilly.com/library/view/linux-in-a/9780596806088/)
 * [Understanding and Using C Pointers by Reese (2013)](https://www.oreilly.com/library/view/understanding-and-using/9781449344535/)
 * [C in a Nutshell by Crawford and Prinz (2005)](https://www.oreilly.com/library/view/c-in-a/0596006977/)
 * [Head First C by Griffiths and Griffiths (2012)](https://www.oreilly.com/library/view/head-first-c/9781449335649/)

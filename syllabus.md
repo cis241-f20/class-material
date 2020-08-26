@@ -177,6 +177,13 @@ miss day for the Friday session.  Please don't use this just to
 skip, save it for when you need it (e.g. oversleep alarm clock,
 forget to hop on, etc.).
 
+### Exam Policies
+Exams will be taken on PrairieLearn and consist of both
+non-coding (multiple choice, fill-in-the-blank, etc.) questions 
+and one or more coding questions.  Exams will be taken on a
+specific day, but at the time of your choice.  However, once
+you start your exam you will have only a set amount of time 
+to complete it (not the whole day).
 
 ### Academic Honesty Policies
 All students are expected to adhere to the academic honesty standards

@@ -82,6 +82,28 @@ After successful completion of the course a student should be able to:
 | [77, 80)  | C+    | [73, 77)  | C     | [70, 73)  | C-    |
 | [67, 70)  | D+    | [60, 67)  | D     | [0, 60)   | F     |
 
+## Extra Credit
+There will be two opportunities for extra credit.  
+
+* Extra credit will be awarded for good questions (as marked by the
+  instructor) and good answers (as endorsed by the instructor).  The
+  exact formula is not yet determined, but the extra credit will
+  be capped at 1% of the overall course grade.
+* In this course we'll use a system called ClassTranscribe for
+  lecture videos that allows students to caption videos.  The goal
+  of this is to encourage:
+
+  1. Provide accessibility for those who may benefit from accurate captions.
+  2. Encourage actively watching the lectures attentively and paying
+     attention to the content of the video lectures.  In a sense, this
+     should be viewed as encouragement to take notes while watching the
+     lectures.
+
+  In order to encourage this, extra credit will be awarded to students
+  who contribute significantly to the captioning of the videos.  The
+  exact formula is not yet determined, but the extra credit will
+  be capped at 1% of the overall course grade.
+
 ## Course Policies
 This course is subject to the GVSU policies listed at
 [http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/).

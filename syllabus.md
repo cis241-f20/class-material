@@ -136,6 +136,7 @@ PL is an online system that will allow you to submit code for
 autograding.  You will be able to submit, see your grade, and resubmit
 prior to the due date/time to improve your grade without penalty as
 many times as you wish.  Except in cases of academic integrity violations,
+in which case your score may be lowered after the fact,
 your score for autograded problems will be the score reported by PrairieLearn
 prior to the due date/time.  If you submit code that does not run or compile,
 you will receive a 0.  Any partial credit will be awarded by the autograder; no

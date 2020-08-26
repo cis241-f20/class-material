@@ -48,12 +48,12 @@ at the start of each week.
 |  02  | 09/07 - 09/11 | LABOR DAY (09/07) sshkeys, linux utilities | TBA | - |
 |  03  | 09/14 - 09/18 | linux utilities, git| TBA | TBA |
 |  04  | 09/21 - 09/25 | git | TBA | TBA |
-|  05  | 09/28 - 10/02 | permissions, processes, aliases, vim <br> Tentative Exam 1 (day TBD) | TBA | TBA |
+|  05  | 09/28 - 10/02 | permissions, processes, aliases, vim | TBA | TBA |
 |  06  | 10/05 - 10/09 | bash scripting | TBA | TBA |
 |  07  | 10/12 - 10/16 | regex, sed | TBA | TBA |
 |  08  | 10/19 - 10/23 | gawk, C intro| TBA | TBA |
-|  09  | 10/26 - 10/30 | C basics, pointers | TBA | TBA |
-|  10  | 11/02 - 11/06 | C stack vs heap, arrays & pointers <br> Tentative Exam 2 (day TBD) | TBA | TBA |
+|  09  | 10/26 - 10/30 | C basics, pointers <br> Tentative Midterm (day TBD) | TBA | TBA |
+|  10  | 11/02 - 11/06 | C stack vs heap, arrays & pointers | TBA | TBA |
 |  11  | 11/09 - 11/13 | C input, functions, switch, header files | TBA | TBA |
 |  12  | 11/16 - 11/20 | C structs, 2d arrays| TBA | TBA |
 |  13  | 11/23 - 11/27 | makefiles <br> THANKSGIVING RECESS (11/25-11/27) | TBA | TBA |

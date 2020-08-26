@@ -95,7 +95,7 @@ There will be two opportunities for extra credit.
   The goal of this is to:
 
   1. Provide accessibility for those who may benefit from accurate captions.
-  2. Encourage actively watching the lectures attentively and paying
+  2. Encourage actively watching the lectures and paying
      attention to the content of the video lectures.  In a sense, this
      should be viewed as encouragement to take notes while watching the
      lectures.

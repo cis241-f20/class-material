@@ -209,7 +209,7 @@ FAQs:
   considered an academic integrity violation*
 * Can I have help from a tutor?  *You may seek help from a tutor, but the work
   you submit for projects in the end must be your own.  You may not consult
-  tutors regarding exams.*
+  tutors when taking exams.*
 * Can I use sites like stackoverflow?  *Yes, this is allowed in this course,
   so long as you are not simply posting your entire problem and asking
   for a solution.*

@@ -38,21 +38,21 @@ of any issues that arise.
 This table will have all of the lecture video links, due dates, etc.
 added throughout the semester.  Material will be added on a weekly basis.
 
-| Week | Topics | Activities | TODOs |
-| ---- | ------ | ---------- | --------- |
-|  01 <br> 08/31 - 09/04 | intro <br> ssh <br> navigating linux <br> file transfer <br> compressing/archiving | TBA | Create a [Piazza account](https://piazza.com/class/kdru22j5k4n3si) <br> Create a [github](https://github.com/) account (if you do not already have one <br> [Course Survey due Friday 09/04](https://forms.gle/zoiNaFCJq5PJeFea7) |
-|  02 <br> 09/07 - 09/11 | LABOR DAY (09/07) <br> sshkeys, linux utilities | TBA | - |
-|  03 <br> 09/14 - 09/18 | linux utilities, git| TBA | TBA |
-|  04 <br> 09/21 - 09/25 |  git | TBA | TBA |
-|  05 <br> 09/28 - 10/02 | permissions, processes, aliases, vim | TBA | TBA |
-|  06 <br> 10/05 - 10/09 | bash scripting | TBA | TBA |
-|  07 <br> 10/12 - 10/16 | regex, sed | TBA | TBA |
-|  08 <br> 10/19 - 10/23 | gawk, C intro| TBA | TBA |
-|  09 <br> 10/26 - 10/30 | C basics, pointers | TBA | TBA |
-|  10 <br> 11/02 - 11/06 | C stack vs heap, arrays & pointers | TBA | TBA |
-|  11 <br> 11/09 - 11/13 | C input, functions, switch, header files| TBA | TBA |
-|  12 <br> 11/16 - 11/20 | C structs, 2d arrays| TBA | TBA |
-|  13 <br> 11/23 - 11/27 | makefiles <br> THANKSGIVING RECESS (11/25-11/27) | TBA | TBA |
-|  14 <br> 11/30 - 12/04 | C string funcs, debugging, enums-unions | TBA | TBA |
-|  15 <br> 12/07 - 12/11 | fileio, arguments, libraries, recap | TBA | TBA |
-|  16 <br> 12/14 - 12/18 | FINAL EXAM WEEK -- DAY TBD | TBA | TBA |
+| Week | Date          | Topics | Activities | TODOs |
+| ---- | ------------- | ------ | ---------- | --------- |
+|  01  | 08/31 - 09/04 | intro <br> ssh <br> navigating linux <br> file transfer <br> compressing/archiving | TBA | Create a [Piazza account](https://piazza.com/class/kdru22j5k4n3si) <br> Create a [github](https://github.com/) account (if you do not already have one <br> [Course Survey due Friday 09/04](https://forms.gle/zoiNaFCJq5PJeFea7) |
+|  02  | 09/07 - 09/11 | LABOR DAY (09/07) sshkeys, linux utilities | TBA | - |
+|  03  | 09/14 - 09/18 | linux utilities, git| TBA | TBA |
+|  04  | 09/21 - 09/25 | git | TBA | TBA |
+|  05  | 09/28 - 10/02 | permissions, processes, aliases, vim | TBA | TBA |
+|  06  | 10/05 - 10/09 | bash scripting | TBA | TBA |
+|  07  | 10/12 - 10/16 | regex, sed | TBA | TBA |
+|  08  | 10/19 - 10/23 | gawk, C intro| TBA | TBA |
+|  09  | 10/26 - 10/30 | C basics, pointers | TBA | TBA |
+|  10  | 11/02 - 11/06 | C stack vs heap, arrays & pointers | TBA | TBA |
+|  11  | 11/09 - 11/13 | C input, functions, switch, header files| TBA | TBA |
+|  12  | 11/16 - 11/20 | C structs, 2d arrays| TBA | TBA |
+|  13  | 11/23 - 11/27 | makefiles <br> THANKSGIVING RECESS (11/25-11/27) | TBA | TBA |
+|  14  | 11/30 - 12/04 | C string funcs, debugging, enums-unions | TBA | TBA |
+|  15  | 12/07 - 12/11 | fileio, arguments, libraries, recap | TBA | TBA |
+|  16  | 12/14 - 12/18 | FINAL EXAM WEEK -- DAY TBD | TBA | TBA |

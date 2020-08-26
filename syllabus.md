@@ -92,7 +92,7 @@ There will be two opportunities for extra credit.
 * In this course we'll use a system called
   [ClassTranscribe](https://classtranscribe.com/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6)
   for lecture videos that allows students to caption videos.
-  The goal of this is to encourage:
+  The goal of this is to:
 
   1. Provide accessibility for those who may benefit from accurate captions.
   2. Encourage actively watching the lectures attentively and paying

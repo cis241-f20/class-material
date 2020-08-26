@@ -101,7 +101,7 @@ There will be two opportunities for extra credit.
      lectures.
 
   In order to encourage this, extra credit will be awarded to students
-  who contribute significantly to the captioning of the videos.  The
+  based on contributions to the captioning of the videos.  The
   exact formula is not yet determined, but the extra credit will
   be capped at 1% of the overall course grade.
 

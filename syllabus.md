@@ -228,3 +228,8 @@ pay out of pocket. Please visit the
 [GVSU Special Circumstance & Financial Hardship Requests web page](https://www.gvsu.edu/financialaid/financial-hardship-requests-226.htm)
 for more information.
 
+## Special Assistance
+If there is any student in this class who has special
+needs because of learning, physical or other disability,
+please contact me and Disability Support Services (DSS)
+at 616.331.2490.

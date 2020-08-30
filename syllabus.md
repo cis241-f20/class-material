@@ -3,7 +3,7 @@
 ## Instructor Information
 Instructor: Erin Carrier
 
-Office Hours: TBA
+Office Hours: Tuesdays, Thursdays, Fridays 1:00 - 2:00pm (zoom link will be posted to piazza)
 
 Contact:
 

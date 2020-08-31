@@ -162,9 +162,14 @@ with the autograder, please post a private note on Piazza ASAP.
 The Friday synchronous class sessions will be set aside to
 complete minilabs and ask questions regarding the asychronous material
 for the week.  Attendance is expected, and, in many cases, the
-grade may be based on attendance, but minilabs later in the semester
+default way for giving credit may be based on attendance,
+but minilabs later in the semester
 that focus more on
 C may have autograders to help you make sure your code is correct.
+If you are unable to attend a Friday synchronous session due to
+extenuating circumstances,
+you will need to make alternate arrangements with the instructor
+to prove satisfactory completion.
  
 These minilabs will be short activities designed
 to allow you a chance to apply the concepts discussed in asynchronous

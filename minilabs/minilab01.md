@@ -27,12 +27,12 @@
    `wget https://raw.githubusercontent.com/fivethirtyeight/data/master/riddler-castles/castle-solutions-4.csv`
    </small>
 5. Use `exit` to disconnect.
-6. Use `scp` with the `-p` option
+6. Use `scp` with the `-p` and one other option
    to transfer the directory from eos to your local machine.
    
    **How would you find out what the `-p` option does?**
    
-   **How would you find out how to transfer a director?**
+   **How would you find out how to transfer a directory?**
 6. Use `rsync` to perform a dry-run of transferring the files
    back to the eos machine and verify that it would not transfer
    either of the files.  

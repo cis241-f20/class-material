@@ -19,6 +19,7 @@ This course should help acquaint you with:
   using "Google" and use your GVSU gmail account
 * [ClassTranscribe](https://classtranscribe.com/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6) -
   select "Google" sign-in and use your GVSU gmail account
+* [GVSU VPN Instructions](https://www.gvsu.edu/it/downloading-installing-and-setting-up-pulse-secure-222.htm)
 
 ### Need Help?
 If you have questions, please ask!  I'm here to help -- it'll

@@ -29,14 +29,18 @@
 5. Use `exit` to disconnect.
 6. Use `scp` with the `-p` option
    to transfer the directory from eos to your local machine.
+   
    **How would you find out what the `-p` option does?**
+   
    **How would you find out how to transfer a director?**
 6. Use `rsync` to perform a dry-run of transferring the files
    back to the eos machine and verify that it would not transfer
    either of the files.  
+   
    **Hint:**  you'll need to find and pass the correct 2 options
    to indicate you want a dry-run and to have rsync show info
    about what it is doing. Where should you look?
+   
    **Note:** because we used the `-p` option with `scp` we don't
    need to use the `--checksum` option shown in the lecture videos
 7. Edit 1 of the 4 data files (doesn't matter which 1 and

@@ -1,9 +1,10 @@
-# Minilab 02
+# Minilab - Week 1
 
 ### Part 1 - simple scp
 1. Use `ssh` to access one of the eos machines
 2. Run
    <small>`wget https://raw.githubusercontent.com/fivethirtyeight/data/master/avengers/avengers.csv`</small>
+   
    Note, `wget` is handy command we haven't talked about -- it will go
    grab a datafile from the web (in this case from 538's github repo).
 3. Use `exit` to disconnect (now you'll be back on your local machine)
@@ -16,9 +17,13 @@
 3. Change into that directory
 4. Run the following commands:
    <small>
+   
    `wget https://raw.githubusercontent.com/fivethirtyeight/data/master/riddler-castles/castle-solutions.csv`
+   
    `wget https://raw.githubusercontent.com/fivethirtyeight/data/master/riddler-castles/castle-solutions-2.csv`
+   
    `wget https://raw.githubusercontent.com/fivethirtyeight/data/master/riddler-castles/castle-solutions-3.csv`
+   
    `wget https://raw.githubusercontent.com/fivethirtyeight/data/master/riddler-castles/castle-solutions-4.csv`
    </small>
 5. Use `exit` to disconnect.

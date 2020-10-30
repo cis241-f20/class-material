@@ -10,7 +10,9 @@ use a simple cipher to encode text.
 The string to be encoded is [mystring] and the shift to use is [shift]
 ```
    where `[]` mean you should print out the actual value of the variable.
+   
 4. For each character in your string:
+
     * Add (or subtract -- your choice, but choose the same one or choose
       a pattern of how you add/subtract) the integer chosen from ascii
       value for the character

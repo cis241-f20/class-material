@@ -12,7 +12,7 @@ be something on the midterm not on this list, but covered in class).
     * Be able to navigate a linux filesystem
     * Understand the difference between relative and
       absolute paths (and be able to use and understand both)
-    * Know what `/`, `...`, and `~` do in the context of paths
+    * Know what `/`, `..`, and `~` do in the context of paths
 * Basic commands to navigate via terminal
     * Examples:
         * `cd`

@@ -14,7 +14,7 @@ is `[1,5,8]`.
 ### Note:
 The approach for the 2 parts below is inefficient.  If you ever
 actually needed to do this, you would do it with
-a single for loop (which would be $1/3$ of the
+a single for loop (which would be 1/3 of the
 computational work).  This approach is to make
 sure that you can appropriately access and assign values
 of an array with both pointer arithmetic and array indexing notation.
